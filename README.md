@@ -1,0 +1,2 @@
+# TeorieObiektoweAlgPlecakowyCSharp
+TeorieObiektoweAlgPlecakowyCSharp
