@@ -1,0 +1,6 @@
+c:\users\izabela\documents\visual studio 2015\Projects\TOplecakowy\TOplecakowy\bin\Debug\TOplecakowy.exe.config
+c:\users\izabela\documents\visual studio 2015\Projects\TOplecakowy\TOplecakowy\bin\Debug\TOplecakowy.exe
+c:\users\izabela\documents\visual studio 2015\Projects\TOplecakowy\TOplecakowy\bin\Debug\TOplecakowy.pdb
+c:\users\izabela\documents\visual studio 2015\Projects\TOplecakowy\TOplecakowy\obj\Debug\TOplecakowy.csprojResolveAssemblyReference.cache
+c:\users\izabela\documents\visual studio 2015\Projects\TOplecakowy\TOplecakowy\obj\Debug\TOplecakowy.exe
+c:\users\izabela\documents\visual studio 2015\Projects\TOplecakowy\TOplecakowy\obj\Debug\TOplecakowy.pdb
